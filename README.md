@@ -25,3 +25,12 @@ eachSync(0, queries, function(i, callback){
 })
 ```
 
+## API
+
+### `eachSync(startingIndex, array, fn(i, callback), callback)`
+
+| Name | Type | Description |
+|------|------|-------------|
+| startingIndex | `Number` | Represents the array index where you want to start the iteration
+| array | `Array` | The array you want to iterate through
+| fn | `Function` | the function you want to perform upon each iteration 
