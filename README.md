@@ -34,3 +34,6 @@ eachSync(0, queries, function(i, callback){
 | startingIndex | `Number` | Represents the array index where you want to start the iteration
 | array | `Array` | The array you want to iterate through
 | fn | `Function` | the function you want to perform upon each iteration 
+
+## License
+MIT © Joe Gesualdo
